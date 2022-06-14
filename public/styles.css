@@ -2,3 +2,12 @@ Html,body{
     margin: 0;
     padding: 0;
 }
+
+.navBar--propreties{
+    margin-top: 15px;
+}
+
+li{
+    display:inline-flex;
+    justify-content: space-evenly;
+}
