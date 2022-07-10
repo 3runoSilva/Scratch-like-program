@@ -8,10 +8,10 @@
           </li>
           <h5></h5>
           <li class="nav-item">
-            <router-link to="/about">About&nbsp;&nbsp;</router-link>
+            <router-link to="/code">Code&nbsp;&nbsp;</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/code">Code</router-link>
+            <router-link to="/about">About</router-link>
           </li>
         </ul>
       </div>
